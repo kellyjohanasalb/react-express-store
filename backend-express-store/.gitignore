@@ -1,0 +1,20 @@
+
+---
+
+### ✅ `.gitignore` actualizado
+
+```gitignore
+# Node.js
+node_modules/
+.env
+
+# Logs
+logs/
+*.log
+pnpm-debug.log*
+
+# Editor configs
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
